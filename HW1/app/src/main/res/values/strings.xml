@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="next">Next</string>
+    <string name="mainActivity">Main Activity</string>
+    <string name="secondActivity">Second Activity</string>
+    <string name="previous">Previous</string>
+    <string name="thirdActivity">Third Activity</string>
+    <string name="toMainActivity">To Main Activity</string>
+</resources>
